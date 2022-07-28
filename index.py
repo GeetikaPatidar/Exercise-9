@@ -5,7 +5,7 @@ print(x+y)
 def func1():
 	print("this is first function")
 def func2():
-	pass
+	print("added function2")
 
 func1()
 func2()
